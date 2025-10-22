@@ -57,3 +57,8 @@ Contact: imashraf787@gmail.com
 © 2025 SMT Digital Automation. All rights reserved.  
 This project is intended for institutional use and demonstration purposes within healthcare and automation environments.  
 Hospital SOPs used in this project are for non-commercial, illustrative use only.
+# Workflow Visualization
+
+Below is a visual representation of the n8n workflow used in this project:
+
+<img width="1366" height="619" alt="Hospital Emergency SOP" src="https://github.com/user-attachments/assets/b83ee188-b94b-4a05-9e96-45f3b74a5e22" />
